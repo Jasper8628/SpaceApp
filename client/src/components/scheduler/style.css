@@ -1,0 +1,19 @@
+.schedule{
+    width: 50vw;
+}
+.schedule-content{
+    height: 50px;
+    width: 400px;
+    text-align: center;
+    justify-content: center;
+}
+.even-row{
+    background: white;
+}
+.odd-row{
+    background: lightgray;
+}
+.drag{
+    width: 50%;
+    background: yellow;
+}
